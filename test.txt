@@ -1,2 +1,0 @@
-git is version control system
-this file is test
